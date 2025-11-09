@@ -1,0 +1,4 @@
+site_name: Docs test
+site_url: https://szekelyzol.github.io/functionstore_docs_test
+theme:
+  name: material
